@@ -32,7 +32,7 @@ change10 = money // 10  # 몫
 money = money % 10  # 나머지
 print("10원= ", change10)
 
-change1 = money // 1  # 몫
+change1 = money // 1  # 몫 구하기
 print("1원= ", change1)
 
 
