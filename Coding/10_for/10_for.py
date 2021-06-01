@@ -12,10 +12,14 @@
 #     i += 1
 
 
-t = ("a", "b", "c", "d", "e")
-s = ""
+# t = ("a", "b", "c", "d", "e")
+# s = ""
+#
+# for c in t:
+#     s += c
+# else:
+#     print(s)
 
-for c in t:
-    s += c
-else:
-    print(s)
+a = list(range(3))
+
+print(a)
