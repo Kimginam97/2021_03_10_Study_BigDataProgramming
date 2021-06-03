@@ -20,6 +20,7 @@
 # else:
 #     print(s)
 
-a = list(range(3))
+# a = list(range(3))
+#
+# print(a)
 
-print(a)
