@@ -24,3 +24,8 @@
 #
 # print(a)
 
+def test(a, *b):
+    return a - b[-1]
+
+
+print(test(1, 2))
